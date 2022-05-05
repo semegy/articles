@@ -26,7 +26,7 @@ import java.util.Map;
  */
 public class LeetCode001 {
     public static void main(String[] args) {
-        int[] nums = new int[] { 2, 7, 11, 15 };
+        int[] nums = new int[] { 2, 7, 11, 15 , 16};
         int target = 9;
 
         // int[] result = twoSum(nums, target);
